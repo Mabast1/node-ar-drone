@@ -17,7 +17,7 @@ Or, if you're fine with missing some cutting edge stuff, go for npm:
 npm install ar-drone
 ```
 
-## Introduction
+## Introduction: 
 
 The AR Drone is an affordable, yet surprisingly capable quadcopter. The drone
 itself runs a proprietary firmware that can be controlled via WiFi using the official
